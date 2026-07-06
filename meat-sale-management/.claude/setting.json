@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(path: \"**/*.java\")",
+      "Write(path: \"**/*.xml\")",
+      "Write(path: \"**/*.yml\")"
+"Bash(command: \"mkdir *\")"
+    ]
+  }
+}
